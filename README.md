@@ -6,3 +6,5 @@
 #comando git push...
 
 #Git pull Add
+
+@Git Fetch Add  
